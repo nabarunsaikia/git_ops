@@ -14,4 +14,8 @@ public class Test1 {
 
     }
 
+    void method4rel(){
+
+    }
+
 }

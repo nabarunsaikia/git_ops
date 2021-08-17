@@ -14,6 +14,10 @@ public class Test1 {
 
     }
 
+    void method4dev(){
+
+    }
+
     void method4rel(){
 
     }
